@@ -4,7 +4,12 @@
   "description": "angular2 seed project by stur",
   "main": "index.js",
   "dependencies": {
-    "node-wechat": "^0.2.0"
+    "node-wechat": "^0.2.0",
+    "express": "~3.17.5",
+    "jade": "^1.11.0",
+    "memory-cache": "^0.1.4",
+    "request": "^2.58.0",
+    "sha1": "^1.1.1"
   },
   "devDependencies": {
     "typescript": "^1.8.2"
