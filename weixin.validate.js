@@ -38,6 +38,6 @@ function validateToken(req,res){
 function healthCheck(req,res){res.end("server ok.")}
 
 var webSvr = http.createServer(validateToken);
-webSvr.listen(443,function(){
+webSvr.listen(7777,function(){
   console.log("Start validate");
 });
