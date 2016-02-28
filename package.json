@@ -1,0 +1,25 @@
+{
+  "name": "ng2-stur-seed",
+  "version": "1.0.0",
+  "description": "angular2 seed project by stur",
+  "main": "index.js",
+  "dependencies": {
+    "node-wechat": "^0.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^1.8.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cstur/ng2-stur-seed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cstur/ng2-stur-seed/issues"
+  },
+  "homepage": "https://github.com/cstur/ng2-stur-seed#readme"
+}
